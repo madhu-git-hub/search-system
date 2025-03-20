@@ -1,0 +1,6 @@
+com\csgi\search\system\config\ConfigLoader.class
+com\csgi\search\system\indexer\RuleProcessor.class
+com\csgi\search\system\indexer\WordIndexer.class
+com\csgi\search\system\util\FileProcessor.class
+com\csgi\search\system\model\Result.class
+com\csgi\search\system\indexer\WordAnalyzer.class

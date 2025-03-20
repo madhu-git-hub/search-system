@@ -1,0 +1,3 @@
+com\csgi\search\system\util\FileProcessorTest.class
+com\csgi\search\system\indexer\WordAnalyzerTest.class
+com\csgi\search\system\config\ConfigLoaderTest.class

@@ -1,0 +1,295 @@
+2025-03-20 16:22:30,434 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 16:22:30,443 [WARN] c.c.s.s.c.ConfigLoader - Requested property 'unknown.property' not found in config.properties
+2025-03-20 16:23:12,251 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 16:23:12,258 [WARN] c.c.s.s.c.ConfigLoader - Requested property 'unknown.property' not found in config.properties
+2025-03-20 16:23:50,674 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 16:23:50,682 [WARN] c.c.s.s.c.ConfigLoader - Requested property 'unknown.property' not found in config.properties
+2025-03-20 16:53:32,088 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 16:53:32,128 [WARN] c.c.s.s.c.ConfigLoader - Requested property 'unknown.property' not found in config.properties
+2025-03-20 16:53:34,269 [INFO] c.c.s.s.u.FileProcessor - Attempting to read file: test.txt
+2025-03-20 16:53:34,279 [ERROR] c.c.s.s.u.FileProcessor - Error reading file 'test.txt': File not found
+2025-03-20 16:53:34,295 [INFO] c.c.s.s.u.FileProcessor - Attempting to read file: test.txt
+2025-03-20 16:53:34,300 [INFO] c.c.s.s.u.FileProcessor - Successfully read 6 words from file: test.txt
+2025-03-20 16:54:01,163 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 16:54:01,164 [WARN] c.c.s.s.c.ConfigLoader - Requested property 'unknown.property' not found in config.properties
+2025-03-20 17:00:49,806 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:00:49,990 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:00:50,045 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:00:50,046 [INFO] c.c.s.s.i.WordAnalyzer - Processing 0 words...
+2025-03-20 17:00:50,046 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 0
+2025-03-20 17:00:50,047 [INFO] c.c.s.s.i.WordAnalyzer - Found 0 words longer than 5 characters
+2025-03-20 17:00:50,048 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'null': 0
+2025-03-20 17:00:50,061 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:00:50,061 [INFO] c.c.s.s.i.WordAnalyzer - Processing 5 words...
+2025-03-20 17:00:50,062 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 2
+2025-03-20 17:00:50,062 [INFO] c.c.s.s.i.WordAnalyzer - Found 1 words longer than 5 characters
+2025-03-20 17:00:50,062 [ERROR] c.c.s.s.i.WordAnalyzer - Exception while processing: Cannot invoke "String.length()" because "suffix" is null
+2025-03-20 17:00:50,069 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:00:50,072 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:03:33,498 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:03:33,721 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:03:33,765 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:03:33,766 [INFO] c.c.s.s.i.WordAnalyzer - Processing 0 words...
+2025-03-20 17:03:33,767 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 0
+2025-03-20 17:03:33,767 [INFO] c.c.s.s.i.WordAnalyzer - Found 0 words longer than 5 characters
+2025-03-20 17:03:33,767 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'null': 0
+2025-03-20 17:03:33,781 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:03:33,782 [INFO] c.c.s.s.i.WordAnalyzer - Processing 5 words...
+2025-03-20 17:03:33,783 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 2
+2025-03-20 17:03:33,783 [INFO] c.c.s.s.i.WordAnalyzer - Found 1 words longer than 5 characters
+2025-03-20 17:03:33,783 [ERROR] c.c.s.s.i.WordAnalyzer - Exception while processing: Cannot invoke "String.length()" because "suffix" is null
+2025-03-20 17:03:33,790 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:03:33,795 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:04:24,114 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:04:24,310 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:04:24,363 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:04:24,363 [INFO] c.c.s.s.i.WordAnalyzer - Processing 0 words...
+2025-03-20 17:04:24,365 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 0
+2025-03-20 17:04:24,366 [INFO] c.c.s.s.i.WordAnalyzer - Found 0 words longer than 5 characters
+2025-03-20 17:04:24,367 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'null': 0
+2025-03-20 17:04:24,388 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:04:24,390 [INFO] c.c.s.s.i.WordAnalyzer - Processing 5 words...
+2025-03-20 17:04:24,390 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 2
+2025-03-20 17:04:24,391 [INFO] c.c.s.s.i.WordAnalyzer - Found 1 words longer than 5 characters
+2025-03-20 17:04:24,391 [ERROR] c.c.s.s.i.WordAnalyzer - Exception while processing: Cannot invoke "String.length()" because "suffix" is null
+2025-03-20 17:04:24,397 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:04:24,401 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:04:58,302 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:04:58,547 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:04:58,589 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:04:58,590 [INFO] c.c.s.s.i.WordAnalyzer - Processing 0 words...
+2025-03-20 17:04:58,591 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 0
+2025-03-20 17:04:58,592 [INFO] c.c.s.s.i.WordAnalyzer - Found 0 words longer than 5 characters
+2025-03-20 17:04:58,592 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'null': 0
+2025-03-20 17:04:58,607 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:04:58,608 [INFO] c.c.s.s.i.WordAnalyzer - Processing 5 words...
+2025-03-20 17:04:58,608 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 2
+2025-03-20 17:04:58,608 [INFO] c.c.s.s.i.WordAnalyzer - Found 1 words longer than 5 characters
+2025-03-20 17:04:58,609 [ERROR] c.c.s.s.i.WordAnalyzer - Exception while processing: Cannot invoke "String.length()" because "suffix" is null
+2025-03-20 17:04:58,617 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:04:58,624 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:06:47,348 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:06:47,552 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:06:47,616 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:06:47,616 [INFO] c.c.s.s.i.WordAnalyzer - Processing 0 words...
+2025-03-20 17:06:47,617 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 0
+2025-03-20 17:06:47,618 [INFO] c.c.s.s.i.WordAnalyzer - Found 0 words longer than 5 characters
+2025-03-20 17:06:47,619 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'null': 0
+2025-03-20 17:06:47,632 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:06:47,633 [INFO] c.c.s.s.i.WordAnalyzer - Processing 5 words...
+2025-03-20 17:06:47,634 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 2
+2025-03-20 17:06:47,634 [INFO] c.c.s.s.i.WordAnalyzer - Found 1 words longer than 5 characters
+2025-03-20 17:06:47,634 [ERROR] c.c.s.s.i.WordAnalyzer - Exception while processing: Cannot invoke "String.length()" because "suffix" is null
+2025-03-20 17:06:47,643 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:06:47,648 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:07:41,998 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:07:42,188 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:07:42,244 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:07:42,245 [INFO] c.c.s.s.i.WordAnalyzer - Processing 0 words...
+2025-03-20 17:07:42,246 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 0
+2025-03-20 17:07:42,247 [INFO] c.c.s.s.i.WordAnalyzer - Found 0 words longer than 5 characters
+2025-03-20 17:07:42,247 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'null': 0
+2025-03-20 17:07:42,259 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:07:42,260 [INFO] c.c.s.s.i.WordAnalyzer - Processing 5 words...
+2025-03-20 17:07:42,261 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 2
+2025-03-20 17:07:42,261 [INFO] c.c.s.s.i.WordAnalyzer - Found 1 words longer than 5 characters
+2025-03-20 17:07:42,261 [ERROR] c.c.s.s.i.WordAnalyzer - Exception while processing: Cannot invoke "String.length()" because "suffix" is null
+2025-03-20 17:07:42,267 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:07:42,272 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5
+2025-03-20 17:09:03,156 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:11:29,402 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:11:29,403 [WARN] c.c.s.s.c.ConfigLoader - Requested property 'unknown.property' not found in config.properties
+2025-03-20 17:11:46,945 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:12:48,152 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:17:51,515 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:18:22,570 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:18:22,798 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:18:22,852 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:18:22,853 [INFO] c.c.s.s.i.WordAnalyzer - Processing 0 words...
+2025-03-20 17:18:22,854 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 0
+2025-03-20 17:18:22,855 [INFO] c.c.s.s.i.WordAnalyzer - Found 0 words longer than 5 characters
+2025-03-20 17:18:22,855 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 0
+2025-03-20 17:18:22,862 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:18:22,863 [INFO] c.c.s.s.i.WordAnalyzer - Processing 5 words...
+2025-03-20 17:18:22,864 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 2
+2025-03-20 17:18:22,864 [INFO] c.c.s.s.i.WordAnalyzer - Found 1 words longer than 5 characters
+2025-03-20 17:18:22,864 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 2
+2025-03-20 17:18:22,881 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:18:22,887 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:19:12,806 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:19:12,954 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:19:13,015 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:19:13,017 [INFO] c.c.s.s.i.WordAnalyzer - Processing 0 words...
+2025-03-20 17:19:13,018 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 0
+2025-03-20 17:19:13,020 [INFO] c.c.s.s.i.WordAnalyzer - Found 0 words longer than 5 characters
+2025-03-20 17:19:13,020 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 0
+2025-03-20 17:19:13,027 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:19:13,028 [INFO] c.c.s.s.i.WordAnalyzer - Processing 5 words...
+2025-03-20 17:19:13,028 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 2
+2025-03-20 17:19:13,028 [INFO] c.c.s.s.i.WordAnalyzer - Found 1 words longer than 5 characters
+2025-03-20 17:19:13,029 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 2
+2025-03-20 17:19:13,039 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:19:13,043 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:35:18,653 [INFO] c.c.s.s.i.WordIndexer - Starting word processing for file: sample.txt
+2025-03-20 17:35:18,662 [INFO] c.c.s.s.u.FileProcessor - Attempting to read file: sample.txt
+2025-03-20 17:35:18,663 [ERROR] c.c.s.s.u.FileProcessor - Error reading file 'sample.txt': sample.txt
+2025-03-20 17:35:18,663 [ERROR] c.c.s.s.i.WordIndexer - Error reading file: sample.txt
+2025-03-20 17:36:45,664 [INFO] c.c.s.s.i.WordIndexer - Starting word processing for file: D:\STS Workspace\search-system\src\main\resources\sample.txt
+2025-03-20 17:36:45,673 [INFO] c.c.s.s.u.FileProcessor - Attempting to read file: D:\STS Workspace\search-system\src\main\resources\sample.txt
+2025-03-20 17:36:45,678 [INFO] c.c.s.s.u.FileProcessor - Successfully read 54 words from file: D:\STS Workspace\search-system\src\main\resources\sample.txt
+2025-03-20 17:36:45,682 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:36:45,682 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:36:45,683 [INFO] c.c.s.s.i.WordAnalyzer - Processing 54 words...
+2025-03-20 17:36:45,685 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 2
+2025-03-20 17:36:45,686 [INFO] c.c.s.s.i.WordAnalyzer - Found 19 words longer than 5 characters
+2025-03-20 17:36:45,687 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 7
+2025-03-20 17:36:45,688 [INFO] c.c.s.s.i.WordIndexer - Count of words starting with M/m: 2
+2025-03-20 17:36:45,688 [INFO] c.c.s.s.i.WordIndexer - Words longer than 5 characters: [Coding, Assignment, create, indexing, process, search, system, building, should, process, following, business, Counts, returns, NUMBER, Strings, Returns, longer, characters]
+2025-03-20 17:36:45,688 [INFO] c.c.s.s.i.WordIndexer - Count of words ending with E/e: 7
+2025-03-20 17:40:57,596 [INFO] c.c.s.s.i.WordIndexer - Starting word processing for file: D:\STS Workspace\search-system\src\main\resources\sample.txt
+2025-03-20 17:40:57,607 [INFO] c.c.s.s.u.FileProcessor - Attempting to read file: D:\STS Workspace\search-system\src\main\resources\sample.txt
+2025-03-20 17:40:57,610 [INFO] c.c.s.s.u.FileProcessor - Successfully read 54 words from file: D:\STS Workspace\search-system\src\main\resources\sample.txt
+2025-03-20 17:40:57,613 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:40:57,614 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:40:57,615 [INFO] c.c.s.s.i.WordAnalyzer - Starting process method with input: 1742452857614
+2025-03-20 17:40:57,615 [INFO] c.c.s.s.i.WordAnalyzer - Processing 54 words...
+2025-03-20 17:40:57,616 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 2
+2025-03-20 17:40:57,617 [INFO] c.c.s.s.i.WordAnalyzer - Found 19 words longer than 5 characters
+2025-03-20 17:40:57,617 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 7
+2025-03-20 17:40:57,618 [INFO] c.c.s.s.i.WordAnalyzer - Completed process method with input: -4
+2025-03-20 17:40:57,619 [INFO] c.c.s.s.i.WordIndexer - Count of words starting with M/m: 2
+2025-03-20 17:40:57,619 [INFO] c.c.s.s.i.WordIndexer - Words longer than 5 characters: [Coding, Assignment, create, indexing, process, search, system, building, should, process, following, business, Counts, returns, NUMBER, Strings, Returns, longer, characters]
+2025-03-20 17:40:57,619 [INFO] c.c.s.s.i.WordIndexer - Count of words ending with E/e: 7
+2025-03-20 17:43:55,138 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:43:55,140 [WARN] c.c.s.s.c.ConfigLoader - Requested property 'unknown.property' not found in config.properties
+2025-03-20 17:43:57,037 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:43:57,049 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:43:57,050 [INFO] c.c.s.s.i.WordAnalyzer - Starting process method with input: 1742453037050
+2025-03-20 17:43:57,050 [INFO] c.c.s.s.i.WordAnalyzer - Processing 0 words...
+2025-03-20 17:43:57,051 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 0
+2025-03-20 17:43:57,052 [INFO] c.c.s.s.i.WordAnalyzer - Found 0 words longer than 5 characters
+2025-03-20 17:43:57,053 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 0
+2025-03-20 17:43:57,053 [INFO] c.c.s.s.i.WordAnalyzer - Completed process method with input: -3
+2025-03-20 17:43:57,061 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:43:57,061 [INFO] c.c.s.s.i.WordAnalyzer - Starting process method with input: 1742453037061
+2025-03-20 17:43:57,062 [INFO] c.c.s.s.i.WordAnalyzer - Processing 5 words...
+2025-03-20 17:43:57,062 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 2
+2025-03-20 17:43:57,062 [INFO] c.c.s.s.i.WordAnalyzer - Found 1 words longer than 5 characters
+2025-03-20 17:43:57,062 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 2
+2025-03-20 17:43:57,062 [INFO] c.c.s.s.i.WordAnalyzer - Completed process method with input: -1
+2025-03-20 17:43:57,075 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:43:57,082 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:51:12,538 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:51:12,540 [WARN] c.c.s.s.c.ConfigLoader - Requested property 'unknown.property' not found in config.properties
+2025-03-20 17:51:14,349 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:51:14,362 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:51:14,363 [INFO] c.c.s.s.i.WordAnalyzer - Starting process method with input: 1742453474363
+2025-03-20 17:51:14,364 [INFO] c.c.s.s.i.WordAnalyzer - Processing 0 words...
+2025-03-20 17:51:14,366 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 0
+2025-03-20 17:51:14,367 [INFO] c.c.s.s.i.WordAnalyzer - Found 0 words longer than 5 characters
+2025-03-20 17:51:14,368 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 0
+2025-03-20 17:51:14,368 [INFO] c.c.s.s.i.WordAnalyzer - Completed process method with input: -5
+2025-03-20 17:51:14,375 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:51:14,376 [INFO] c.c.s.s.i.WordAnalyzer - Starting process method with input: 1742453474376
+2025-03-20 17:51:14,376 [INFO] c.c.s.s.i.WordAnalyzer - Processing 5 words...
+2025-03-20 17:51:14,377 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 2
+2025-03-20 17:51:14,377 [INFO] c.c.s.s.i.WordAnalyzer - Found 1 words longer than 5 characters
+2025-03-20 17:51:14,377 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 2
+2025-03-20 17:51:14,377 [INFO] c.c.s.s.i.WordAnalyzer - Completed process method with input: -1
+2025-03-20 17:51:14,382 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:51:14,387 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:53:25,581 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:53:25,590 [WARN] c.c.s.s.c.ConfigLoader - Requested property 'unknown.property' not found in config.properties
+2025-03-20 17:53:27,347 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:53:27,370 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:53:27,372 [INFO] c.c.s.s.i.WordAnalyzer - Starting process method with input: 1742453607371
+2025-03-20 17:53:27,372 [INFO] c.c.s.s.i.WordAnalyzer - Processing 0 words...
+2025-03-20 17:53:27,374 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 0
+2025-03-20 17:53:27,375 [INFO] c.c.s.s.i.WordAnalyzer - Found 0 words longer than 5 characters
+2025-03-20 17:53:27,376 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 0
+2025-03-20 17:53:27,376 [INFO] c.c.s.s.i.WordAnalyzer - Completed process method with input: -5
+2025-03-20 17:53:27,391 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:53:27,393 [INFO] c.c.s.s.i.WordAnalyzer - Starting process method with input: 1742453607393
+2025-03-20 17:53:27,393 [INFO] c.c.s.s.i.WordAnalyzer - Processing 5 words...
+2025-03-20 17:53:27,393 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 2
+2025-03-20 17:53:27,393 [INFO] c.c.s.s.i.WordAnalyzer - Found 1 words longer than 5 characters
+2025-03-20 17:53:27,393 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 2
+2025-03-20 17:53:27,393 [INFO] c.c.s.s.i.WordAnalyzer - Completed process method with input: 0
+2025-03-20 17:53:27,397 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:53:27,405 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:56:09,229 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:56:09,231 [WARN] c.c.s.s.c.ConfigLoader - Requested property 'unknown.property' not found in config.properties
+2025-03-20 17:56:10,990 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:56:11,003 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:56:11,004 [INFO] c.c.s.s.i.WordAnalyzer - Starting process method with input: 1742453771004
+2025-03-20 17:56:11,005 [INFO] c.c.s.s.i.WordAnalyzer - Processing 0 words...
+2025-03-20 17:56:11,009 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 0
+2025-03-20 17:56:11,011 [INFO] c.c.s.s.i.WordAnalyzer - Found 0 words longer than 5 characters
+2025-03-20 17:56:11,012 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 0
+2025-03-20 17:56:11,012 [INFO] c.c.s.s.i.WordAnalyzer - Completed process method with input: -8
+2025-03-20 17:56:11,021 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:56:11,022 [INFO] c.c.s.s.i.WordAnalyzer - Starting process method with input: 1742453771021
+2025-03-20 17:56:11,022 [INFO] c.c.s.s.i.WordAnalyzer - Processing 5 words...
+2025-03-20 17:56:11,023 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 2
+2025-03-20 17:56:11,023 [INFO] c.c.s.s.i.WordAnalyzer - Found 1 words longer than 5 characters
+2025-03-20 17:56:11,024 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 2
+2025-03-20 17:56:11,025 [INFO] c.c.s.s.i.WordAnalyzer - Completed process method with input: -4
+2025-03-20 17:56:11,034 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:56:11,046 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:59:20,737 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 17:59:20,740 [WARN] c.c.s.s.c.ConfigLoader - Requested property 'unknown.property' not found in config.properties
+2025-03-20 17:59:22,616 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:59:22,625 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:59:22,627 [INFO] c.c.s.s.i.WordAnalyzer - Starting process method with input: 1742453962627
+2025-03-20 17:59:22,627 [INFO] c.c.s.s.i.WordAnalyzer - Processing 0 words...
+2025-03-20 17:59:22,628 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 0
+2025-03-20 17:59:22,629 [INFO] c.c.s.s.i.WordAnalyzer - Found 0 words longer than 5 characters
+2025-03-20 17:59:22,629 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 0
+2025-03-20 17:59:22,629 [INFO] c.c.s.s.i.WordAnalyzer - Completed process method with input: -2
+2025-03-20 17:59:22,635 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:59:22,636 [INFO] c.c.s.s.i.WordAnalyzer - Starting process method with input: 1742453962636
+2025-03-20 17:59:22,637 [INFO] c.c.s.s.i.WordAnalyzer - Processing 5 words...
+2025-03-20 17:59:22,637 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 2
+2025-03-20 17:59:22,637 [INFO] c.c.s.s.i.WordAnalyzer - Found 1 words longer than 5 characters
+2025-03-20 17:59:22,637 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 2
+2025-03-20 17:59:22,638 [INFO] c.c.s.s.i.WordAnalyzer - Completed process method with input: -2
+2025-03-20 17:59:22,646 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 17:59:22,653 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 18:08:25,159 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 18:08:25,161 [WARN] c.c.s.s.c.ConfigLoader - Requested property 'unknown.property' not found in config.properties
+2025-03-20 18:08:27,088 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 18:08:27,097 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 18:08:27,098 [INFO] c.c.s.s.i.WordAnalyzer - Starting process method with input: 1742454507098
+2025-03-20 18:08:27,099 [INFO] c.c.s.s.i.WordAnalyzer - Processing 0 words...
+2025-03-20 18:08:27,101 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 0
+2025-03-20 18:08:27,103 [INFO] c.c.s.s.i.WordAnalyzer - Found 0 words longer than 5 characters
+2025-03-20 18:08:27,103 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 0
+2025-03-20 18:08:27,103 [INFO] c.c.s.s.i.WordAnalyzer - Completed process method with input: -5
+2025-03-20 18:08:27,111 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 18:08:27,112 [INFO] c.c.s.s.i.WordAnalyzer - Starting process method with input: 1742454507112
+2025-03-20 18:08:27,112 [INFO] c.c.s.s.i.WordAnalyzer - Processing 5 words...
+2025-03-20 18:08:27,112 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 2
+2025-03-20 18:08:27,113 [INFO] c.c.s.s.i.WordAnalyzer - Found 1 words longer than 5 characters
+2025-03-20 18:08:27,113 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 2
+2025-03-20 18:08:27,113 [INFO] c.c.s.s.i.WordAnalyzer - Completed process method with input: -1
+2025-03-20 18:08:27,121 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 18:08:27,127 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 18:27:33,867 [INFO] c.c.s.s.c.ConfigLoader - Successfully loaded configuration properties.
+2025-03-20 18:27:33,870 [WARN] c.c.s.s.c.ConfigLoader - Requested property 'unknown.property' not found in config.properties
+2025-03-20 18:27:35,775 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 18:27:35,787 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 18:27:35,788 [INFO] c.c.s.s.i.WordAnalyzer - Starting process method with input: 1742455655788
+2025-03-20 18:27:35,789 [INFO] c.c.s.s.i.WordAnalyzer - Processing 0 words...
+2025-03-20 18:27:35,790 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 0
+2025-03-20 18:27:35,792 [INFO] c.c.s.s.i.WordAnalyzer - Found 0 words longer than 5 characters
+2025-03-20 18:27:35,792 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 0
+2025-03-20 18:27:35,793 [INFO] c.c.s.s.i.WordAnalyzer - Completed process method with input: -5
+2025-03-20 18:27:35,800 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 18:27:35,801 [INFO] c.c.s.s.i.WordAnalyzer - Starting process method with input: 1742455655801
+2025-03-20 18:27:35,801 [INFO] c.c.s.s.i.WordAnalyzer - Processing 5 words...
+2025-03-20 18:27:35,801 [INFO] c.c.s.s.i.WordAnalyzer - Count of words starting with 'm': 2
+2025-03-20 18:27:35,801 [INFO] c.c.s.s.i.WordAnalyzer - Found 1 words longer than 5 characters
+2025-03-20 18:27:35,802 [INFO] c.c.s.s.i.WordAnalyzer - Count of words ending with 'e': 2
+2025-03-20 18:27:35,802 [INFO] c.c.s.s.i.WordAnalyzer - Completed process method with input: -1
+2025-03-20 18:27:35,806 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
+2025-03-20 18:27:35,812 [INFO] c.c.s.s.i.WordAnalyzer - WordAnalyzer initialized with startsWith: m and minLength: 5 and endsWith e
