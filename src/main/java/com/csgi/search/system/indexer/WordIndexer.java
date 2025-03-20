@@ -19,7 +19,7 @@ public class WordIndexer {
 
     public static void main(String[] args) {
         if (args.length != 1) {
-            logger.error("Invalid arguments. Usage: java -jar word-processor.jar <file-path>");
+            logger.error("Invalid arguments. Usage: java -jar search-system-0.0.1-SNAPSHOT.jar <file-path>");
             System.exit(1);
         }
 
